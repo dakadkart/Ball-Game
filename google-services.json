@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "103560748065",
+    "firebase_url": "https://ball-game-app.firebaseio.com",
+    "project_id": "ball-game-app",
+    "storage_bucket": "ball-game-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:103560748065:android:e30573d89e08e4e6ca5760",
+        "android_client_info": {
+          "package_name": "com.ball.game"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "103560748065-nvb83icmh2053p8m1cevh5rltqg57rnc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAm6HFYXEhZzwoyfnzwx3x8x6vM0l_SCrI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "103560748065-nvb83icmh2053p8m1cevh5rltqg57rnc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
